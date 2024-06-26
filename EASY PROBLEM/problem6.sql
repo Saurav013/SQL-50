@@ -1,3 +1,5 @@
+BASIC QUESTIONS ON JOIN 
+---------------------------------
 /*
 
 1378. Replace Employee ID With The Unique Identifier
